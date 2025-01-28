@@ -29,7 +29,7 @@ export default function HeroSection() {
                     Explore Plans
                   </Button>
                 </div>
-              </div>
+              </div> 
             </div>
           </main>
         </div>

@@ -11,6 +11,7 @@
   ],
   "lowPriorityFiles": [],
   "rootMainFiles": [],
+  "rootMainFilesTree": {},
   "pages": {
     "/_app": [
       "static/chunks/fallback/webpack.js",
