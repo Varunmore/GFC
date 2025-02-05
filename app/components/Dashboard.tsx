@@ -94,14 +94,14 @@ const Dashboard = () => {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <Card className="bg-gradient-to-br from-purple-900/50 to-blue-900/50 border-purple-500/20 backdrop-blur-sm p-6">
+          <Card className="bg-gradient-to-br from-purple-900/80 to-blue-900/80 border-purple-500/20 mt-12 p-8">
             <h2 className="text-xl font-bold text-white mb-4">Recent Activity</h2>
             <div className="space-y-4">
               <p className="text-gray-400">No recent activity</p>
             </div>
           </Card>
 
-          <Card className="bg-gradient-to-br from-purple-900/50 to-blue-900/50 border-purple-500/20 backdrop-blur-sm p-6">
+          <Card className="bg-gradient-to-br from-purple-900/80 to-blue-900/80 border-purple-500/20 mt-12 p-8">
             <h2 className="text-xl font-bold text-white mb-4">Your Games</h2>
             <div className="space-y-4">
               <p className="text-gray-400">No games found</p>

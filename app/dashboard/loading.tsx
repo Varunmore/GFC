@@ -1,7 +1,12 @@
+import AnimatedBackground from "@/app/components/AnimatedBackground";
+
 export default function Loading() {
   return (
-    <div className="min-h-screen flex items-center justify-center">
-      <div className="text-xl animate-pulse">Loading...</div>
-    </div>
+    <>
+      <AnimatedBackground />
+      <div className="relative z-10 min-h-screen flex items-center justify-center">
+        <div className="text-xl text-white animate-pulse">Loading...</div>
+      </div>
+    </>
   );
 } 

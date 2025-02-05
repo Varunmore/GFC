@@ -1,5 +1,9 @@
 {
-  "/dashboard/games/[id]/page": "app/dashboard/games/[id]/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js",
   "/dashboard/games/page": "app/dashboard/games/page.js",
-  "/dashboard/page": "app/dashboard/page.js"
+  "/terms/page": "app/terms/page.js"
 }
